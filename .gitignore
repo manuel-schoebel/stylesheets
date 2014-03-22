@@ -1,0 +1,9 @@
+.build*
+_site/
+.bundle/
+vendor/
+*.iml
+.idea
+packages
+*.lock
+.DS_STORE
