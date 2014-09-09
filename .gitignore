@@ -1,7 +1,6 @@
 .build*
 _site/
 .bundle/
-vendor/
 *.iml
 .idea
 packages
